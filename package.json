@@ -1,7 +1,7 @@
 {
   "name": "multipage",
   "description": "Generate the multipage HTML specification",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "author": "adrianba",
   "private": true,
   "dependencies": {
